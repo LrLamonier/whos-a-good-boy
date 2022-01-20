@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/whos-a-good-boy/static/css/main.ae7f89f9.css",
+    "main.js": "/whos-a-good-boy/static/js/main.460b3fc1.js",
+    "static/media/bg.webp": "/whos-a-good-boy/static/media/bg.367a61903b0939a5ec16.webp",
+    "index.html": "/whos-a-good-boy/index.html",
+    "main.ae7f89f9.css.map": "/whos-a-good-boy/static/css/main.ae7f89f9.css.map",
+    "main.460b3fc1.js.map": "/whos-a-good-boy/static/js/main.460b3fc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7f89f9.css",
+    "static/js/main.460b3fc1.js"
+  ]
+}
